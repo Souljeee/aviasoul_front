@@ -1,0 +1,6 @@
+package com.example.aviasoul_front
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
